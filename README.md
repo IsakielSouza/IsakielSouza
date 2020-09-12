@@ -1,8 +1,8 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.linkedin.com/in/isakielsouza/)
 
-Para mais detalhes do meu perfil profissional, consultar meu Linkedin (https://www.linkedin.com/in/isakiel-souza-6a98b6120/)
-https://app.rocketseat.com.br/me/isakielsouza
+Para mais detalhes do meu perfil profissional, consultar meu Linkedin (https://www.linkedin.com/in/isakielsouza             
+https://app.rocketseat.com.br/me/isakielsouza     
 
 
 Meu nome é Isakiel e ...:
