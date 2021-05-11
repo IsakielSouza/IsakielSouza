@@ -5,7 +5,7 @@
 
 <p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https: //github-profile-trophy.vercel .app /? username = isakielsouza "alt =" isakielsouza "/> </a> </p>
 
-- 🔭 Atualmente estou trabalhando em [NLW # 05] (https: // github.com / IsakielSouza / Plantar)
+- 🔭 Atualmente estou trabalhando em [NLW#05] (https: // github.com / IsakielSouza / Plantar)
 
 - 🌱 Atualmente estou aprendendo ** Python, Pandas, Jupyter Notebook, Docker **
 
@@ -13,7 +13,7 @@
 
 - 📫 Como me encontrar **isakielsouza@outlook.com.br**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/ in / isakielsouza /] (https://www.linkedin.com/in/isakielsouza/)
+- 📄 Conheça minhas experiências (https://www.linkedin.com/in/isakielsouza/)
 
 - ⚡ Esportes ** Sou Crossfiteiro **
 
