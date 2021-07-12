@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isakielsouza" alt="isakielsouza" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [NLW#05](https://github.com/IsakielSouza/PlantManager)
+- 🔭 Atualmente estou trabalhando em [Privado]
 
-- 🌱 Atualmente estou aprendendo **Python, Pandas, Jupyter Notebook, Docker**
+- 🌱 Atualmente estou aprendendo **Python, Pandas, Docker**
 
 - 💬 Atualmente desenvolvendo com: **Reactjs, React Native, Nodejs e Typescript**
 
