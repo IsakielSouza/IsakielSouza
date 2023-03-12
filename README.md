@@ -13,7 +13,7 @@
 
 - 📫 Como me encontrar **isakielsouza@outlook.com.br, 85 991534114**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/isakielsouza/](https://www.linkedin.com/in/isakielsouza/)
+<!-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/isakielsouza/](https://www.linkedin.com/in/isakielsouza/) -->
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
